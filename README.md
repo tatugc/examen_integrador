@@ -1,5 +1,5 @@
 # examen_integrador
 Gonzalo 
-Gonzalo F
+Gonzalo
 Gissel
 Gretel
